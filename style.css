@@ -1,0 +1,68 @@
+nav{
+
+ 
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase
+    
+    
+}
+
+div{
+    padding: 40px;
+    width: 650px;
+    height: 860px;
+    margin:auto;
+    margin-top: 50px;
+    
+    
+}
+
+h1{
+    font-family: 'Caprasimo', cursive;
+font-family: 'Roboto Slab', serif;
+word-spacing: 35px;
+}
+
+
+
+
+.nav-menu  {
+    margin-left: 30px;
+    margin-right: 30px;
+   }
+   
+.Hello {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top: 20px;
+    right: 180px;
+    font-weight: bolder;
+    
+
+
+}
+
+.opt{
+    max-width: 198px;
+    display: inline-block;
+    /* padding: 4px; */
+    margin-left: -20px;
+    margin-right: -20px;
+
+
+}
+
+#span{
+    margin-right: -40px;
+
+   
+    
+}
+
+#spand{
+    margin-right: -40px;
+
+}
